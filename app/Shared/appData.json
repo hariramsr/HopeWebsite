@@ -1,0 +1,153 @@
+{
+  "contactUs": {
+    "defaultText": "How would you like to contact us? Tap any of the icons above to connect with us.",
+    "email": "pushkalb123@gmail.com",
+    "mobilePrimary": "+91 8904327189",
+    "mobileSecondary": "+91 8904327189",
+    "facebook": "https://www.facebook.com/hope-group-175352045855636",
+    "address": "#4, 5th Cross, 6th Main,<br> Kataripalya, kolar - 563101",
+    "gpsLocation": "Latitude - 12.9380492 <br>Longitude - 77.5665877"
+  },
+  "events": {
+    "one": {
+      "quote": "On the 69th Independence day, a HOPEful initiative was taken to serve the society. HOPE visited the Chadamanahalli Govt. school on it’s first event to provide books and other resources to the students to inspire them to better educate the rural students.",
+      "name": "Chadamanahalli Govt. school",
+      "date":"15 August 2015",
+      "contributed":"Books, Geometry, Crayons, Pen and Pencil.",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472233293/1stEvent/1stevent.jpg"
+    },
+    "two": {
+      "quote": "HOPE continued it’s journey with a visit to another Govt. school  at Cheluru and Chiruvanahally to provide some basic schooling amenities. The main purpose behind the visit to the school was to inspire the school children to study better and become better citizens of the nation.",
+      "name": "Cheluru and Chiruvanahally Govt. school",
+      "date":"2 October 2015",
+      "contributed":"Books, Geometry, Crayons, Pens, Pencils.",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472233452/2ndEvent/2nd_event.jpg"
+    },
+    "three": {
+      "quote": "HOPE group visited the Chikka Ayyur & Jhu halli Orphanages and provided groceries to support the members of the orphanage.",
+      "name": "Chikka Ayyur & Jhu hally Orphanages",
+      "date":"31-October-2015",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472393835/3rdEvent/3rd_Event1.jpg",
+      "photo2": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472393840/3rdEvent/3rd_Event2.jpg"
+    },
+    "four": {
+      "quote": "HOPE group visited the Harati Govt. school and provided some basic schooling amenities. The main purpose behind the visit to the school was to inspire the school children to study better and become better citizens of the nation.",
+      "name": "Harati Govt. school",
+      "date":"21-November-2015",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394055/4thEvent/4thEvent.jpg"
+    },
+
+    "five": {
+      "quote": "Water Purifier provided by HOPE group to the Mavalli Government School, Kolar. This will give access to the safe and clean drinking water to students and staff of the school.",
+      "name": "Mavalli Govt. school",
+      "date":"26-December-2015",
+      "photo1": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394137/5thEvent/5th_Evnet.jpg",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394083/5thEvent/5th_Evnet2.jpg"
+    },
+    "six": {
+      "quote": "HOPE group visited the Huttoor Govt. school and provided some basic schooling amenities. The main purpose behind the visit to the school was to inspire the school children to study better and become better citizens of the nation. Plantation was also taken up as part of the event at the school surroundings to create environment awareness.",
+      "name": "Huttoor Govt. school",
+      "date":"26-January-2016",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394275/6thEvent/6thEvent.jpg"
+    },
+    "seven": {
+      "quote": "India is the world's 2nd most populated country. Today in the changing social system, parents and older people are considered to be burden and the younger generation are not taking care of them. Because of this reason, the Old Age Home provide the special care.Old Age is difficult part of life's journey. If a person is happy at heart, he always feels young. Beside physical care they need our time and company. Keep your elder well, cheerful and earn their blessings in life.",
+      "name": " Antaragange Vridhashrama",
+      "date":"27-February-2016",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394344/7thEvent/7thEvent.jpg"
+    },
+    "eight": {
+      "quote": "We are in this world just because of our parents, the reason we studied is our parents, the reason we were alive all this while is our parents. But nowadays when time comes for youths to reciprocate that love and care we got from them, we back out.Keep your elders Happy and their blessings will be with you till your last breath.",
+      "name": "Sri Sai Jyothi Vridhashrama",
+      "date":"26-March-2016",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394502/8thEvent/8thEvent2.jpg"
+    },
+    "nine": {
+      "quote": "The best flowers are plucked first. Similarly in this world, the best people r once who leave this world first.It was really sad to see the condition of burial ground of D.K Ravi Sir. Hope someday it will get convert in to a grand memorial in his name.We met Ravi Sir's parents, it was really sad to see their condition. It is said that Time heals all the wounds but, their is no medicine that can heal a mothers wound who lost her son.Hope our little contribution to them will be useful to them.",
+      "date":"30-April-2016",
+      "name": "Financial help to DK Ravi sir's Parents",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394542/9thEvent/9thEvent.jpg"
+    },
+    "ten": {
+      "quote": "HOPE arranged a successful free medical camp at Koothandally Govt. School. The aim of the camp was to provide free health services to the people of Koothandally and Varadenahally villages. We helped more than 120 needy people and provide them services. The uniqueness of the camp was it had been arranged in village where health services are not easily available Our Doctors team conducted general checkup for the all needy people and prescribed the proper treatment for them. Thanks to Dr. Ankitha, Dr. Kiran, Dr. Sahana, Dr. Tilak, Dr. Vishal and Dr. Vaishnavi for there support and dedication.",
+      "name": "Health Camp",
+      "date":"29-May-2016",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394574/10thEvent/10thEvent.jpg"
+    },
+    "eleven": {
+      "quote": "105 useful books were given. Which included Guides and question bank for SSLC students, Kannada and English Grammar books, Essay writing books, GK books, Quiz books, Story books, Atlas, Encyclopedia, Indian Mythological books like Ramayana, Mahabharata, Dictionaries, Freedom Fighters, Inventions and Discoveries.",
+      "name": "Nayakarahally Govt. High School",
+      "date":"25-June-2016",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394635/11thEvent/11thEvent1.jpg"
+    },
+    "twelve": {
+      "quote": "We have donated contributions received for higher studies of Catherine. She was unable to complete her final year B.Com, due to lack of fees. Hope the amount we contributed to her will give her and her family a good life. Thanks to all the members who contributed for this.We distributed them rice and pulses as per their demand. We gave biscuits and sweets to the intellectual disable people over their. Their is need to create more awareness about mental illness and its effects on body and mind. There have been instances when people view a mentally ill person who is not performing at work or studies as a lazy person (just giving excuses) without realizing that the individual is unable to perform and his condition. Please don't discriminate such people. Have sympathetic view on them & help them to reintegrate them in the main stream society.",
+      "name": "support to Catherine and to Mentally retarded",
+      "date":"16,30-July-2016",
+      "photo1": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394786/12thEvent/12thEvent.jpg",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472394788/12thEvent/12thEvent1.jpg"
+    },
+    "thirteen": {
+      "quote": "Library",
+      "name": "Aniversary",
+      "date":"15 August 2016",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1481677631/Aniversary_cw0qqh.jpg"
+    }
+  },
+  "testimonials": {
+    "one": {
+      "quote": "Have been visiting C-shell boutique from the day it started..have had a wonderful experience every time ,be it designs or the fitting...great job Pavani kiran",
+      "name": "Pushkal B",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472233293/1stEvent/1stevent.jpg"
+    },
+    "two": {
+      "quote": "Seeing the attire of my daughter, can't resist to keep admiring. Courtesy to CShell, we come to them to appreciate their work :)",
+      "name": "Vinod",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472233293/1stEvent/1stevent.jpg"
+    },
+    "three": {
+      "quote": "I love the way blouses has been stitched..most creative way and its nice to see there concern towards our fabric, depending upon the fabric they come up with the design..I have seen many boutiques but Pavani's creativity is spell bound..Proud Happy Customer",
+      "name": "Pranav Prakash",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472233293/1stEvent/1stevent.jpg"
+    },
+    "four": {
+      "quote": "Perfect fitting, delivered before time, and awesome service. Thanks a lot. ",
+      "name": "Younus Saleem",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472233293/1stEvent/1stevent.jpg"
+    },
+    "five": {
+      "quote": "CShell isn't just a boutique, its a place whr I can walk in & be assured tht my clothes will be @ their best whn they come back to me, irrespective of any ideas I may or may not have, Pavani understands people as well as she studies clothes. She perceives what I want, evn be4 I know it clearly myself.",
+      "name": "Darshan Gowda",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472233293/1stEvent/1stevent.jpg"
+    },
+    "six": {
+      "quote": "Perfect fitting, delivered before time, and awesome service. Thanks a lot.",
+      "name": "Sekhar",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472233293/1stEvent/1stevent.jpg"
+    },
+    "seven": {
+      "quote": "Perfect fitting, delivered before time, and awesome service. Thanks a lot.",
+      "name": "Ashok Gowda",
+      "photo": "http://res.cloudinary.com/djfuzwid8/image/upload/v1472233293/1stEvent/1stevent.jpg"
+    }
+  },
+  "about": {
+    "headline": "One cannot help everyone but everyone can help someone",
+    "questions": [
+      "What is Hope?",
+      "HOPE full form",
+      "Our Mission",
+      "Our Vision",
+
+      "To-do - Add more"
+    ],
+    "answers": [
+      "HOPE is an organization founded by youth in August 2015",
+      "Helping out Public effectively",
+      "The main mission of the organization is to serve the humanity and to save our planet. To work towards Better, Clean and Educated India.",
+      "To provide educational support to the poor students. To render assistance to the orphans for their livelihood. To provide medical support to the poor needy people. To educate and motive people to keep their neighbourhood clean and to contribute for Clean India.",
+
+      "To-do - Add more."
+    ]
+  }
+}
