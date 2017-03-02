@@ -1,16 +1,14 @@
 {
-  "name": "conFusion",
+  "name": "Hope",
   "version": "1.0.0",
-  "description": "Website for an awesome restaurant",
+  "description": "Website for an Hope Group",
   "main": "index.html",
   "moduleType": [],
   "keywords": [
-    "conFusion",
-    "Fusion",
-    "Restaurant"
+    "Hope"
   ],
   "authors": [
-    "Jogesh Muppala"
+    "Pushkal Pranav"
   ],
   "license": "MIT",
   "homepage": "",

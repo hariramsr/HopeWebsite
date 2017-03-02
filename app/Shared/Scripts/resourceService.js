@@ -14,9 +14,7 @@
     function getDataFromJson() {
       $http.get('./Shared/appData.json').then(function successCallback(response) {
         hopeService.saveDataFromJSON(response.data);
-          console.log(response.data);
       }, function errorCallback(response) {
-          console.log(response);
           // called asynchronously if an error occurs
         // or server returns response with an error status.
       });
