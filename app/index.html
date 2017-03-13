@@ -37,6 +37,9 @@
 <!--<script src="../bower_components/angular-route/angular-route.min.js"></script>-->
 <script src="../bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
 <script src="../bower_components/angular-resource/angular-resource.min.js"></script>
+<script src="../bower_components/jquery/dist/jquery.min.js"></script>
+<script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
 <script src="Shared/Scripts/app.js"></script>
     <script src="Gallery/galleryController.js"></script>
     <script src="Contact/contactController.js"></script>
@@ -49,9 +52,20 @@
     <script src="Gallery/Detail/eventInfoController.js"></script>
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
 
-
+    <script>
+        $(document).ready(function(){
+            $("#mycarousel").carousel( { interval: 2000 } );
+                          $("#carousel-pause").click(function(){
+                $("#mycarousel").carousel('pause');
+            });
+                        $("#carousel-play").click(function(){
+                $("#mycarousel").carousel('cycle');
+            });
+        });
+    </script>
 <!-- endbuild -->
 
 </body>
 
+     
 </html>
