@@ -41,5 +41,6 @@ angular.module('hopeApp')
                     $scope.message = "Error: " + response.status + " " + response.statusText;
                 }
             );
+    
 
     }]);
